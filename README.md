@@ -1,13 +1,9 @@
 ![MasterHead](https://media.licdn.com/dms/image/D4D12AQHeGzrHacYCng/article-cover_image-shrink_720_1280/0/1656043588960?e=2147483647&v=beta&t=JHqVPycV6G8YCOrT3Ts3RScCwUvEyj3VADGpRT0rpBA) 
-
 <h1 align="center">Hi 👋, I'm Prajwal Madhukar Pawar</h1>
 <h3 align="center">A passionate Cloud Developer from India</h3>
-
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalp0571&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalp0571" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prajwalp0571" alt="prajwalp0571" /></a> </p>
 
 - 🔭 I’m currently working on **AWS Devlopers Associate**
 
@@ -39,3 +35,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwalp0571&show_icons=true&locale=en&layout=compact" alt="prajwalp0571" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prajwalp0571&show_icons=true&locale=en" alt="prajwalp0571" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwalp0571&" alt="prajwalp0571" /></p>
