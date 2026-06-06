@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalp0571&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalp0571" /> </p>
 
-- 🔭 I’m currently working on **AWS Devlopers Associate**
+- 🔭 I’m currently working on **Cloud DevOps*
 
-- 🌱 I’m currently learning **Prompt Engineering, Machine Learning, AI**
+- 🌱 I’m currently learning **Prompt Engineering, Machine Learning, AI, Cloud and DevOps**
 
 - 👨‍💻 All of my projects are available at [Comming Soon?](Comming Soon?)
 
