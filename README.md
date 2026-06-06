@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [AWS Services and their inovations](AWS Services and their inovations)
 
-- 💬 Ask me about **AWS Services, DevOps Tools.**
+- 💬 Ask me about **AWS Services, DevOps Tools, AI Agents, Prompt Engineering.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/prajwal-pawar0571/**
 
